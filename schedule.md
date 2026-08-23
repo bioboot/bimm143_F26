@@ -6,11 +6,11 @@ order: 2
 ---
 
 
-For the Spring 2026 quarter we will meet twice a week on Tuesday and Thursday at 10:30-1:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Clicking on the topics below will take you to supporting class content including video lectures, hands-on "lab session" sheets, walk-through screencasts, required reading material and homework assignments.
+For the Fall 2026 quarter we will meet twice a week on Tuesday and Thursday at 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Clicking on the topics below will take you to supporting class content including video lectures, hands-on "lab session" sheets, walk-through screencasts, required reading material and homework assignments.
 
 <br>
 
-| Week | Class | Topics for Spring 2026                                                                                                 |
+| Week | Class | Topics for Fall 2026                                                                                                 |
 | :--: | :--:  | :--------------------------------------------------------------------------------------------------------------------- |
 | 0  | 0 | [**Getting Oriented**](#0) <br> Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.                                                                                                                                               |
 | 1  | 1 | [**Welcome to Bioinformatics**](#1) <br> Biology is an information science, History of Bioinformatics, Types of data, Application areas and introduction to upcoming course segments, Hands on with major Bioinformatics databases and key online NCBI and EBI resources                                                                                                                                               |
