@@ -22,8 +22,8 @@ For the Fall 2026 quarter we will meet twice a week on Tuesday and Thursday at 9
 | 3  | 6 | [**Why, when and how of writing your own R functions**](#6) <br> The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use. Extending functionality and utility with R packages from CRAN and BioConductor, Working with Bio3D for molecular data.                                                                                                                                                                                                                                                                                       |
 | 4  | 7 | [**Introduction to machine learning for Bioinformatics 1**](#7) <br> Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)                                                                                                                                                                                                                                            |
 | 4  | 8 | **Project:** [**Unsupervised learning mini-project**](#8) <br> Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets                                                                                                                             |
-| 5 | 9 | **Project:** [**Candy mini-project**](#9) <br> A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.                                                                                                                                                                         |
-| 5 | 10 | [**Structural Bioinformatics (pt1)**](#10) <br> Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.                                                                                                                                                                                                                                             |
+| 5 | 9 | [**Structural Bioinformatics (pt1)**](#9) <br> Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.                                                                                                                                                                                                                                             |
+| 5 | 10 | **Project:** [**Candy mini-project**](#10) <br> A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.                                                                                                                                                                         |
 | 6| 11 | [**Structural Bioinformatics (pt2 AlphaFold)**](#11) <br> The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure.                                                                                                                                               |
 | 6 | 12 | [**Genome informatics and high throughput sequencing**](#12) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC.  <br> **N.B.** This is an **online only session!**    | 
 | 7 | 13 | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#13) <br> RNA-Seq differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.    |
@@ -411,21 +411,9 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 ---
-<a name="9"></a>
-## 9: Candy Mini-Project
+<a name="9"></a> 
 
-**Topics:** 
-A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.  
-
-- Lab: [Mini-Project: Exploratory analysis of Halloween cand]({{ site.baseurl }}/class-material/lab09_Halloween_candy.html){:.no-push-state}{:target="_blank"}.   
-
-
-
-
----
-<a name="10"></a> 
-
-## 10: Structural Bioinformatics (pt1)      
+## 9: Structural Bioinformatics (pt1)      
 **Topics**: Protein structure function relationships, Protein structure and visualization resources, Modeling energy as a function of structure, Homology modeling, AlphaFold, Predicting functional dynamics, Inferring protein function from structure.
 
 **Goal**: 
@@ -451,6 +439,18 @@ A fun and topical mini-project with unsupervised learning analysis of halloween_
 
 **Homework**:   
 - Questions.  
+
+
+---
+<a name="10"></a>
+## 10: Candy Mini-Project
+
+**Topics:** 
+A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.  
+
+- Lab: [Mini-Project: Exploratory analysis of Halloween cand]({{ site.baseurl }}/class-material/lab09_Halloween_candy.html){:.no-push-state}{:target="_blank"}.   
+
+
 
 
 ---
