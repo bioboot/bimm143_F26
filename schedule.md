@@ -438,7 +438,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 **Homework**:   
-- Questions.  
+- Your homework is to complete the lab session and all questions therein.  
 
 
 ---
