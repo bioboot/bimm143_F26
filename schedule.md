@@ -533,7 +533,9 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture15_BIMM143-large.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on with Git and GitHub]({{ site.baseurl }}/class-material/lab15.html){:.no-push-state}{:target="_blank"},
+- Hands-on section worksheet
+  * (Part I) [Hands-on with Git and GitHub]({{ site.baseurl }}/class-material/lab15.html){:.no-push-state}{:target="_blank"},
+  * (Part II) [Getting started with GitHub Copilot]({{ site.baseurl }}/class-material/github_copilot.html){:.no-push-state}{:target="_blank"},    
 - Notes: [Git conflict rescue cheat sheet]({{ site.baseurl }}/class-material/git_conflict/){:.no-push-state}{:target="_blank"} 
 
 
