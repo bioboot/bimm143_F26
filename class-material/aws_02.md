@@ -8,6 +8,7 @@ Using your remote AWS instance (Part II)
 **Class 15, Cloud computing part 2:**   
 Barry Grant &lt; <http://thegrantlab.org/> &gt;   
 2022-11-14   (16:04:17 PST on Mon, Nov 14)  
+2026-11-15   (21:01:51 PST on Sun, Nov 15)  
 {:.message}
 
 
@@ -256,12 +257,24 @@ wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-2022.07.2-
 sudo gdebi rstudio-server-2022.07.2-576-amd64.deb
 ```
 
+```
+# Alternate for later 2026 versions of Ubuntu
+#curl -O https://download2.rstudio.org/server/jammy/amd64/rstudio-server-2026.11.0-203-amd64.deb
+#sudo apt-get install ./rstudio-server-2026.11.0-203-amd64.deb
+```
+
 After answering `yes` when prompted you should see a final line indicating that an RStudio server has started:
 
-You can double check with:
+If not you can run:
 
 ```
-rstudio-server status
+sudo rstudio-server start
+```
+
+and double check with:
+
+```
+sudo rstudio-server status
 ```
 
 Push 'q' to exit and note that you should see a line saying *"Active: active (running)"*. 
