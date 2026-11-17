@@ -535,7 +535,7 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture15_BIMM143-large.pdf){:.no-push-state}{:target="_blank"},  
 - Hands-on section worksheet
   * (Part I) [Hands-on with Git and GitHub]({{ site.baseurl }}/class-material/lab15.html){:.no-push-state}{:target="_blank"},
-  * (Part II) [Getting started with GitHub Copilot]({{ site.baseurl }}/class-material/github_copilot.html){:.no-push-state}{:target="_blank"},    
+  * (Part II) [Getting started with GitHub Copilot]({{ site.baseurl }}/class-material/github_copilot.html){:.no-push-state}{:target="_blank"},
 - Notes: [Git conflict rescue cheat sheet]({{ site.baseurl }}/class-material/git_conflict/){:.no-push-state}{:target="_blank"} 
 
 
@@ -575,7 +575,7 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 - Lab screencast [Launching an AWS EC2 instance](http://youtu.be/5-Nxt85UmoA){:.no-push-state}{:target="_blank"},  
 - Hands-on section worksheet
   * (Part I) [Starting your own computer in the cloud]({{ site.baseurl }}/class-material/aws_01.html){:.no-push-state}{:target="_blank"},
-  * (Part II) [Accessing and using your AWS instance]({{ site.baseurl }}/class-material/aws_02/){:.no-push-state}{:target="_blank"},  
+  * (Part II) [Accessing and using your AWS instance]({{ site.baseurl }}/class-material/aws_02.html){:.no-push-state}{:target="_blank"},  
 - AWS Console URL: [https://awsed.ucsd.edu/](https://awsed.ucsd.edu/){:.no-push-state}{:target="_blank"}.  
 - Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
 - [Muddy point assessment](https://goo.gl/forms/W2G06LVrn2pADB2q1){:.no-push-state}.  
